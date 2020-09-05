@@ -1,0 +1,8 @@
+{
+  "name": "my-vercel-integration",
+  "version": "1.0.0",
+  "description": "My vercel integration",
+  "author": "hota1024 <hotalog@hota1024.com>",
+  "license": "MIT",
+  "private": false
+}
