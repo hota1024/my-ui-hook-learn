@@ -6,7 +6,8 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@vercel/integration-utils": "^0.6.5-canary.0"
+    "@vercel/integration-utils": "^0.6.5-canary.0",
+    "typescript": "^4.0.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.0.1",
