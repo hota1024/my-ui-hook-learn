@@ -4,5 +4,8 @@
   "description": "My vercel integration",
   "author": "hota1024 <hotalog@hota1024.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@vercel/integration-utils": "^0.6.5-canary.0"
+  }
 }
